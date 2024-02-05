@@ -1,0 +1,7 @@
+0 medical
+1 battery
+2 package
+3 tech
+4 p_bottle
+5 p_bag
+6 deodorant
